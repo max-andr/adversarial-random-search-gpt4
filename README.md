@@ -4,21 +4,19 @@
 **Short paper**: [Adversarial Examples for GPT-4 via Simple Random Search](https://www.andriushchenko.me/gpt4adv.pdf)
 
 
-## Conversation 1
-**Standard**: [https://platform.openai.com/playground/p/gEEPak6gtzI4HiMnoKhksBc6?mode=chat](https://platform.openai.com/playground/p/gEEPak6gtzI4HiMnoKhksBc6?mode=chat)
-
-**Adversarial**: [https://platform.openai.com/playground/p/0IU3UOP70KoviepEIjXGBvUU?mode=chat](https://platform.openai.com/playground/p/0IU3UOP70KoviepEIjXGBvUU?mode=chat)
-
+## Conversation #1
+**Standard conversation #1**: [https://platform.openai.com/playground/p/gEEPak6gtzI4HiMnoKhksBc6?mode=chat](https://platform.openai.com/playground/p/gEEPak6gtzI4HiMnoKhksBc6?mode=chat)
 <p align="center"><img src="images/conv1_standard.png" width="900" /></p>
+
+**Adversarial conversation #1**: [https://platform.openai.com/playground/p/0IU3UOP70KoviepEIjXGBvUU?mode=chat](https://platform.openai.com/playground/p/0IU3UOP70KoviepEIjXGBvUU?mode=chat)
 <p align="center"><img src="images/conv1_adv.png" width="900" /></p>
 
 
-## Conversation 2
-**Standard**: [https://platform.openai.com/playground/p/gTciUFzOZiQaYl65G16frCxT?mode=chat](https://platform.openai.com/playground/p/gTciUFzOZiQaYl65G16frCxT?mode=chat)
-
-**Adversarial**: [https://platform.openai.com/playground/p/szF1Vs2IwW5Hr9xUFM1DL8fb?mode=chat](https://platform.openai.com/playground/p/szF1Vs2IwW5Hr9xUFM1DL8fb?mode=chat)
-
+## Conversation #2
+**Standard conversation #2**: [https://platform.openai.com/playground/p/gTciUFzOZiQaYl65G16frCxT?mode=chat](https://platform.openai.com/playground/p/gTciUFzOZiQaYl65G16frCxT?mode=chat)
 <p align="center"><img src="images/conv2_standard.png" width="900" /></p>
+
+**Adversarial conversation #2**: [https://platform.openai.com/playground/p/szF1Vs2IwW5Hr9xUFM1DL8fb?mode=chat](https://platform.openai.com/playground/p/szF1Vs2IwW5Hr9xUFM1DL8fb?mode=chat)
 <p align="center"><img src="images/conv2_adv.png" width="900" /></p>
 
 
