@@ -1,7 +1,7 @@
-# Adversarial Examples for GPT-4 via Simple Random Search
+# Adversarial Attacks on GPT-4 via Simple Random Search
 
 
-**Short paper**: [Adversarial Examples for GPT-4 via Simple Random Search](https://www.andriushchenko.me/gpt4adv.pdf)
+**Short paper**: [Adversarial Attacks on GPT-4 via Simple Random Search](https://www.andriushchenko.me/gpt4adv.pdf)
 
 
 ## Conversations
