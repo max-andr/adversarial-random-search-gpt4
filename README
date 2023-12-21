@@ -1,0 +1,28 @@
+# Adversarial Examples for GPT-4 via Simple Random Search
+
+
+**Paper**: [Adversarial Examples for GPT-4 via Simple Random Search](https://www.andriushchenko.me/gpt4adv.pdf)
+
+
+## Conversation 1
+**Standard**: [https://platform.openai.com/playground/p/gEEPak6gtzI4HiMnoKhksBc6?mode=chat](https://platform.openai.com/playground/p/gEEPak6gtzI4HiMnoKhksBc6?mode=chat)
+**Adversarial**: [https://platform.openai.com/playground/p/0IU3UOP70KoviepEIjXGBvUU?mode=chat](https://platform.openai.com/playground/p/0IU3UOP70KoviepEIjXGBvUU?mode=chat)
+<p align="center"><img src="images/conv1_standard.png" width="900" /></p>
+<p align="center"><img src="images/conv1_adv.png" width="900" /></p>
+
+
+## Conversation 2
+**Standard**: [https://platform.openai.com/playground/p/gTciUFzOZiQaYl65G16frCxT?mode=chat](https://platform.openai.com/playground/p/gTciUFzOZiQaYl65G16frCxT?mode=chat)
+**Adversarial**: [https://platform.openai.com/playground/p/szF1Vs2IwW5Hr9xUFM1DL8fb?mode=chat](https://platform.openai.com/playground/p/szF1Vs2IwW5Hr9xUFM1DL8fb?mode=chat)
+<p align="center"><img src="images/conv2_standard.png" width="900" /></p>
+<p align="center"><img src="images/conv2_adv.png" width="900" /></p>
+
+
+## Optimization with random search
+<p align="center"><img src="images/opt_conv1.png" width="900" /></p>
+<p align="center"><img src="images/opt_conv2.png" width="900" /></p>
+
+
+## How to run the notebook
+Provide your `OPENAI_API_KEY` as an environment variable following the instructions [here](https://platform.openai.com/docs/quickstart?context=python). Then you are good to go!
+
