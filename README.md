@@ -1,7 +1,8 @@
 # Adversarial Attacks on GPT-4 via Simple Random Search
 
-
-**Short paper**: [Adversarial Attacks on GPT-4 via Simple Random Search](https://www.andriushchenko.me/gpt4adv.pdf)
+**📢 Update on 28 April 2024:**
+*This short write-up is superseded by our subsequent work [Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks
+](https://arxiv.org/abs/2404.02151) which uses random search to jailbreak many of the leading safety-aligned LLMs, including GPT-4. See the code https://github.com/tml-epfl/llm-adaptive-attacks for the improved implementation of random search.*
 
 
 ## Conversations
